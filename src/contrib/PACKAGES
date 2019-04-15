@@ -1,0 +1,8 @@
+Package: tic.drat
+Version: 0.0-0
+Imports: Rcpp
+LinkingTo: Rcpp
+Suggests: testthat
+License: GPL-3
+MD5sum: e55d52b8d4155adcaf72967789b043bd
+NeedsCompilation: yes
